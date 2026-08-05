@@ -1,0 +1,27 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ups.ncmmobile.test",
+      "sha256_cert_fingerprints": [
+        "00:25:FA:64:AE:38:A7:E1:0F:DF:9A:CF:70:C8:2E:93:4E:D0:DA:2F:65:1A:C6:0B:BC:89:3B:B0:B0:9F:C0:ED"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ups.ncmmobile",
+      "sha256_cert_fingerprints": [
+        "14:B7:0E:F1:BD:B3:29:00:21:CB:EE:80:C8:A1:71:98:EC:E7:9D:D8:29:DE:A7:ED:69:45:E2:F7:F9:0F:BC:05",
+        "C6:5E:55:EE:61:CD:74:33:E0:72:40:29:FE:94:40:8F:83:B6:CC:EE:75:F0:8D:C5:41:7B:5E:0E:D8:9A:7F:16"
+      ]
+    }
+  }
+]
