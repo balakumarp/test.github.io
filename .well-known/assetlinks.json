@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.ups.ncmmobile.test",
       "sha256_cert_fingerprints": [
-        "00:25:FA:64:AE:38:A7:E1:0F:DF:9A:CF:70:C8:2E:93:4E:D0:DA:2F:65:1A:C6:0B:BC:89:3B:B0:B0:9F:C0:ED"
+        "00:25:FA:64:AE:38:A7:E1:0F:DF:9A:CF:70:C8:2E:93:4E:D0:DA:2F:65:1A:C6:0B:BC:89:3B:B0:B0:9F:C0:ED",
+        "29:56:DA:15:69:3A:8A:0C:3A:F8:95:DD:EC:8B:6A:90:F6:53:91:76:74:21:06:C7:D1:03:8E:BA:79:53:78:3D"
       ]
     }
   },
